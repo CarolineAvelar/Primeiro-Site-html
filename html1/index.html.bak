@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+    <head>
+	    <title>Primeiro site</title> 
+	    <meta charset="utf-8">
+	</head>
+	<body>
+	    <h1>Primeiro site<h1><br/> 
+	    <h2>Primeiro site<h2><br/> 
+	    <h3>Primeiro site<h3><br/> 
+	    <h4>Primeiro site<h4><br/> 
+		<hr>
+		
+		<table name="tabela1" id="">
+		    <tr>
+			    <td>1</td>
+			    <td>2</td>
+			    <td>3</td>
+			</tr>
+		</table>
+		
+		<hr>
+		<form name="form" action="#" method="post">
+		    Nome:<br>
+			<input name="nome" type="text"><br>
+			Email:<br>
+			<input name="email" type="email"><br>
+			Senha:<br>
+			<input name="senha" type="password"><br>
+			Descrição:<br>
+			<textarea name="descricao"></textarea><br>
+			Estado:
+			<select name="estado">
+			    <option>São Paulo</option>
+				<option>Rio de Janeiro</option>
+			<select><br>
+			<input name="submit" type="submit" value="ok">
+		</form>
+	</body>
+</html>
+
