@@ -6,7 +6,7 @@ Este é meu primeiro site criado em agosto de 2022, durante o curso técnico de 
 
 O site foi desenvolvido utilizando apenas comandos básicos de HTML. Inclui elementos como:
 - Testes de tamanho de fonte.
-- Um campo para inserção de dados.
+- Campos para inserção de dados.
 - Opções de seleção.
 - Um botão de "OK".
 
